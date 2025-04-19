@@ -13,7 +13,7 @@ A simple search in DuckDuckGo to check that results are displayed is used as exa
 
 # Instalation
 
-pip and venv are installed correctly:
+pip and venv are installed correctly
 
 # Test Execution
 
